@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-homepage",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loreign/restaurant-homepage.git"
+  },
+  "author": "loreign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loreign/restaurant-homepage/issues"
+  },
+  "homepage": "https://github.com/loreign/restaurant-homepage#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
